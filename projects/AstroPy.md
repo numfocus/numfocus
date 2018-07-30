@@ -1,4 +1,4 @@
-# AstroPy
+# Astropy
 
 ## Website
 
@@ -7,14 +7,6 @@
 ## Social Media
 
 Twitter: [@astropy](https://twitter.com/astropy)
-
-## Description
-
-The Astropy Project is a community effort to develop a single core package for Astronomy in Python and foster interoperability between Python astronomy packages.
-
-## Languages
-
-Python
 
 ## Team
 
