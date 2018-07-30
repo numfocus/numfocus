@@ -12,16 +12,23 @@ Twitter: [@fenicsproject](https://twitter.com/fenicsproject)
 ?
 
 ## Governance
-https://bitbucket.org/fenics-project/governance
 
 ### Leadership Team
-?
+[Team](https://bitbucket.org/fenics-project/governance/src/41585a76c1c960ee9dca118d5804d70612b17292/people.md?at=master&fileviewer=file-view-default)  
+**Steering Council**
+- Jan Blechta (Charles University, Chemnitz University of Technology)
+- Jack S. Hale (University of Luxembourg)
+- Anders Logg (Chalmers University of Technology)
+- Chris Richardson (University of Cambridge)
+- Johannes Ring (Simula Research Laboratory)
+- Marie E. Rognes (Simula Research Laboratory)
+- Garth N. Wells (University of Cambridge)
 
 ### Code of Conduct
 https://bitbucket.org/fenics-project/governance/src/41585a76c1c960ee9dca118d5804d70612b17292/code-of-conduct.md
 
 ### Governance Documentation
-?
+https://bitbucket.org/fenics-project/governance
 
 ## Code
 
@@ -33,7 +40,8 @@ https://bitbucket.org/fenics-project/
 * Contribute: https://fenicsproject.org/community/
 
 ### License
-?
+https://bitbucket.org/fenics-project/governance/src/41585a76c1c960ee9dca118d5804d70612b17292/project-license.md?fileviewer=file-view-default  
+GNU LGPL version 3.0 or later for most components
 
 ## Contact
 
