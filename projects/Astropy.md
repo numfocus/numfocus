@@ -6,7 +6,8 @@
 <http://www.astropy.org/>
 
 ### Social Media
-Twitter: [@astropy](https://twitter.com/astropy)
+- Twitter: [@astropy](https://twitter.com/astropy)
+- Facebook: [Python users in Astronomy](https://www.facebook.com/groups/astropython/)
 
 ### Citing
 ?
