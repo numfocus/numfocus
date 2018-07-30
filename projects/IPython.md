@@ -1,7 +1,5 @@
 # IPython
 
-# IPython
-
 ## Marketing
 
 ### Website
