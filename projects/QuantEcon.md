@@ -1,59 +1,47 @@
 # QuantEcon
 
-## Website
+## Marketing
 
+### Website
 <https://quantecon.org/>
 
+### Social Media
+Twitter: [@QuantEcon](https://twitter.com/QuantEcon)
 
-## Social Media
-
-
-## Description
-
-"QuantEcon is a NumFOCUS fiscally sponsored project dedicated to development and documentation of modern open source computational tools for economics, econometrics, and decision making."
-
-"QuantEcon aims to build coding skills and code libraries centered on outstanding open source scientific computing environments such as Python, R and [Julia](http://julialang.org/). Current QuantEcon activities include the Quantitative Economics lectures on Python and [Julia](http://julialang.org/), the QuantEcon code libraries (Python/[Julia](http://julialang.org/)) and the Open Notebook Archive."
-
-
-## Languages
-
-Python, [Julia](http://julialang.org/)
-
-## Team
-
-[Team – QuantEcon](https://quantecon.org/team.html)
-
-
-Steering Committee
-
-- Susan Athey
-- Sagiri Kitao
-- Matthew McKay
-- John Stachurski
-- Thomas J. Sargent
-- Sevin Yeltekin
-
-
-Lead Developers
-
-- Chase Coleman
-- Spencer Lyon
-- David Pugh
-- Daisuke Oyama
-- Pablo Winant
+### Citing
+?
 
 ## Governance
 
+### Leadership Team
+https://quantecon.org/team
+
+### Code of Conduct
+?
+
+### Governance Documentation
+
+## Code
+
+### Repository
+https://github.com/QuantEcon
+
+### Documentation
+https://quantecon.org/get-involved
+
+### License
+?
+
+## Contact
+
+### Discussion Forums
+Discourse: http://discourse.quantecon.org/
+
+### Events
+?
 
 
-## Code of Conduct
 
-
-
-## Code Repository
-
-
-GItHub:
 
 - [QuantEcon Organization](https://github.com/QuantEcon)
 - [QuantEcon/QuantEcon.jl:](https://github.com/QuantEcon/QuantEcon.jl)[Julia](http://julialang.org/)[implementation of QuantEcon routines](https://github.com/QuantEcon/QuantEcon.jl)
