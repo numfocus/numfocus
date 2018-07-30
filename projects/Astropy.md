@@ -6,8 +6,7 @@
 <http://www.astropy.org/>
 
 ### Social Media
-- Twitter: [@astropy](https://twitter.com/astropy)
-- Facebook: [Python users in Astronomy](https://www.facebook.com/groups/astropython/)
+Twitter: [@astropy](https://twitter.com/astropy)
 
 ### Citing
 ?
@@ -46,7 +45,8 @@ BSD-3-Clause: [astropy/LICENSE.rst at master · astropy/astropy](https://github.
 ## Contact
 
 ### Discussion Forums
-Gitter: [astropy/astropy - Gitter](https://gitter.im/astropy/astropy)
+- Gitter: [astropy/astropy - Gitter](https://gitter.im/astropy/astropy)
+- Facebook: [Python users in Astronomy](https://www.facebook.com/groups/astropython/)
 
 ### Events
 [Python in Astronomy](http://openastronomy.org/pyastro/)
