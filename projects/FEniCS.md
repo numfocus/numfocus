@@ -1,66 +1,43 @@
 # FEniCS
 
-## Website
+## Marketing
 
+### Website
 <https://fenicsproject.org/>
 
-## Social Media
+### Social Media
+Twitter: [@fenicsproject](https://twitter.com/fenicsproject)
 
-
-## Description
-
-FEniCS is a popular computing platform for partial differential equations (PDE). FEniCS enables users to quickly translate scientific models into efficient finite element code. With the high-level Python and C++ interfaces to FEniCS, it is easy to get started, but FEniCS offers also powerful capabilities for more experienced programmers. FEniCS runs on a multitude of platforms ranging from laptops to high-performance clusters.
-
-## Language
-
-Python (and C++?)
-
-
-## Team
-
-TODO: Identify team
+### Citing
 
 ## Governance
+https://bitbucket.org/fenics-project/governance
 
-[**fenics-project / Governance — Bitbucket**](https://bitbucket.org/fenics-project/governance)
+### Leadership Team
 
-## Code of Conduct
+### Code of Conduct
+https://bitbucket.org/fenics-project/governance/src/41585a76c1c960ee9dca118d5804d70612b17292/code-of-conduct.md
 
-## Code Repository
+### Governance Documentation
 
-[**fenics-project — Bitbucket**](https://bitbucket.org/fenics-project/)
+## Code
 
-## Build Tools
+### Repository
+https://bitbucket.org/fenics-project/
 
-## Packages
+### Documentation
+* https://fenicsproject.org/documentation/
+* Contribute: https://fenicsproject.org/community/
 
-## Releases
+### License
 
-## Issue Tracker
+## Contact
 
-[**fenics-project — Bitbucket**](https://bitbucket.org/fenics-project/)
+### Discussion Forums
+- FEniCS Q&A: https://fenicsproject.org/qa/
+- fenics-dev - Google Groups: https://groups.google.com/forum/#!forum/fenics-dev
+- fenics-support - Google Groups: https://groups.google.com/forum/#!forum/fenics-support
+- Slack: https://fenicsproject.slack.com/
 
-## Documentation
-
-[**Documentation – FEniCS Project**](https://fenicsproject.org/documentation/)
-
-Contribute Page is currently a 404
-
-## Discussion
-
-- q&a: [FEniCS Q&A](https://fenicsproject.org/qa/)
-- developer mailinglist: [fenics-dev - Google Groups](https://groups.google.com/forum/#!forum/fenics-dev)
-- support mailinglist: [fenics-support - Google Groups](https://groups.google.com/forum/#!forum/fenics-support)
-- slack: [Slack](https://fenicsproject.slack.com/)
-
-## Events
-
-[FEniCS‘17 – FEniCS Project](https://fenicsproject.org/fenics17/)
-
-## License
-
-## Citing
-
-## History
-
-## Other
+### Events
+https://fenicsproject.org/fenics17/
