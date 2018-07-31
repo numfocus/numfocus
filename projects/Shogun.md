@@ -36,7 +36,7 @@ https://github.com/shogun-toolbox/shogun
 https://github.com/shogun-toolbox/docs
 
 ### License
-Shogun is distributed under BSD 3-clause license, with optional GPL3 components.
+Shogun is distributed under BSD 3-clause license, with optional GPL3 components.  
 https://github.com/shogun-toolbox/shogun/blob/develop/doc/license
 
 ## Contact
