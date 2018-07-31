@@ -8,7 +8,7 @@
 ### Social Media
 - Twitter: [@yt\_astro](https://twitter.com/yt_astro)
 - Facebook: [The yt Project](https://www.facebook.com/ytproject)
-- Google+: [yt Project - Google+](https://plus.google.com/+Yt-projectOrg)### Citing
+- Google+: [yt Project - Google+](https://plus.google.com/+Yt-projectOrg)
 
 ### Citing
 http://yt-project.org/doc/faq/index.html#how-do-i-cite-yt
