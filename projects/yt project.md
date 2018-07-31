@@ -1,141 +1,51 @@
 # yt project
 
-## Website
+## Marketing
 
-
+### Website
 <http://yt-project.org/>
 
-
-## Social Media
-
-
+### Social Media
 - Twitter: [@yt\_astro](https://twitter.com/yt_astro)
 - Facebook: [The yt Project](https://www.facebook.com/ytproject)
-- Google+: [yt Project - Google+](https://plus.google.com/+Yt-projectOrg)
+- Google+: [yt Project - Google+](https://plus.google.com/+Yt-projectOrg)### Citing
 
-
-## Description
-
-
-"yt is an open-source, permissively-licensed python package for analyzing and visualizing volumetric data.
-
-
-yt supports structured, variable-resolution meshes, unstructured meshes, and discrete or sampled data such as particles. Focused on driving physically-meaningful inquiry, yt has been applied in domains such as astrophysics, seismology, nuclear engineering, molecular dynamics, and oceanography. Composed of a friendly community of users and developers, we want to make it easy to use and develop — we'd love it if you got involved!"
-
-
-## Languages
-
-
-Python
-
-
-## Team
-
-
-- [The yt Project: Members](http://yt-project.org/members.html)
-- [The yt Project: About](http://yt-project.org/about.html)
+### Citing
+http://yt-project.org/doc/faq/index.html#how-do-i-cite-yt
 
 ## Governance
 
+### Leadership Team
+?
 
-[YTEP-1776: Team Infrastructure — yt Enhancement Proposals 1.0 documentation](https://ytep.readthedocs.io/en/latest/YTEPs/YTEP-1776.html)
+### Code of Conduct
+http://yt-project.org/community.html
 
-(draft / proposed)
+### Governance Documentation
+?
 
+## Code
 
-## Code of Conduct
+### Repository
+https://github.com/yt-project
 
+### Documentation
+- https://yt-project.org/docs/dev/
+- https://yt-project.org/doc/
+- https://yt-project.org/docs/2.6
 
-[Code of Conduct — The yt Project 3.3.3 documentation](http://yt-project.org/doc/developing/developing.html#yt-community-code-of-conduct)
+### License
+"yt is licensed under the BSD 3-clause license. Versions previous to yt-2.6 were released under the GPLv3."  
+http://yt-project.org/doc/developing/developing.html#licensing
 
-(based on PSF CoC)
+## Contact
 
+### Discussion Forums
+- [yt-users](https://mail.python.org/mm3/mailman3/lists/yt-users.python.org/) for usage help, questions and answers, and general discussion.
+- [yt-dev](https://mail.python.org/mm3/mailman3/lists/yt-dev.python.org/) for development-related discussions.
+- Slack: https://yt-project.slack.com/
+- "On [FreeNode](https://freenode.org/) there is a channel called #yt for chatting with other yt users."
+- "In case you don't have an IRC client, we also have a [web client](https://yt-project.org/irc.html) that will connect you directly to our channel."
 
-## Code Repository
-
-
-- Org on Bitbucket: [yt\_analysis — Bitbucket](https://bitbucket.org/yt_analysis/)
-- Various repos, example: [yt\_analysis / yt — Bitbucket](https://bitbucket.org/yt_analysis/yt/)
-
-## Build Tools
-
-Pastebin: [New Paste | LodgeIt!](http://paste.yt-project.org/)
-
-## Packages
-
-[The yt Project: Extensions](http://yt-project.org/extensions.html)
-
-## Releases
-
-
-## Issue Tracker
-
-
-Many repositories, each with own tracker. Hosted on Bitbucket.
-
-Example: [yt\_analysis / yt / issues — Bitbucket](https://bitbucket.org/yt_analysis/yt/issues?status=new&status=open)
-
-[yt\_analysis / blog — Bitbucket](https://bitbucket.org/yt_analysis/blog)
-
-
-
-## Documentation
-
-
-Contributing:
-
-- [The yt Project: Development](http://yt-project.org/development.html)
-- [The yt Project: Community](http://yt-project.org/community.html)
-
-Main Documentation:
-- [yt Documentation — yt 2.6 documentation (Legacy)](http://yt-project.org/docs/2.6/)
-- [yt Overview — The yt Project 3.3.3 documentation](http://yt-project.org/doc/)
-- [yt Overview — The yt Project 3.4-dev documentation](http://yt-project.org/docs/dev/)
-
-User Guide:
-- [The yt Project: Gallery](http://yt-project.org/gallery.html)
-- [Girder](https://girder.hub.yt/) ?
-
-
-Blog: [The yt Project Blog](https://blog.yt-project.org/)
-
-
-## Discussion
-
-
-Trello: [yt (yt\_analysis) | Trello](https://trello.com/yt_analysis)
-
-
-MailingList:
-
-- [yt-users Info Page](http://lists.spacepope.org/listinfo.cgi/yt-users-spacepope.org)
-- [yt-dev Info Page](http://lists.spacepope.org/listinfo.cgi/yt-dev-spacepope.org)
-- [yt-svn Info Page](http://lists.spacepope.org/listinfo.cgi/yt-svn-spacepope.org)
-
-- Slack: [Slack](https://yt-project.slack.com/)
-- IRC: [yt IRC](http://yt-project.org/irc.html)
-- Open Hub: [The yt Open Source Project on Open Hub](https://www.openhub.net/p/yt_amr)
-
-## Events
-
-
-
-## License
-
-
-Currently: BSD-3-Clause, previously GPLv3: [Licensing — The yt Project 3.3.3 documentation](http://yt-project.org/doc/developing/developing.html#licensing)
-
-## Citing
-
-[How do I cite yt? — The yt Project 3.3.3 documentation](http://yt-project.org/doc/faq/index.html#how-do-i-cite-yt)
-
-## History
-
-
-[History of yt — The yt Project 3.3.3 documentation](http://yt-project.org/doc/about/index.html#history-of-yt)
-
-
-"yt was originally begun by Matthew Turk in 2007 in the course of his graduate studies in computational astrophysics. The code was developed as a simple data-reader and exporter for grid-based hydrodynamical simulation data outputs from the Enzo code. Over the next few years, he invited collaborators and friends to contribute and use yt. As the community grew, so did the capabilities of yt. It is now a community-developed project with contributions from many people, the hospitality of several institutions, and benefiting from numerous grants. With this community-driven approach and contributions from a sizeable population of developers, it has evolved into a fully-featured toolkit for analysis and visualization of multidimensional data. It relies on no proprietary software – although it can be and has been extended to interface with proprietary software and libraries – and has been designed from the ground up to enable users to be as immersed in the data as they desire."
-
-
-## Other
+### Events
+?
