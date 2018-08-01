@@ -28,7 +28,7 @@ https://github.com/sympy/sympy/blob/master/CODE_OF_CONDUCT.md
 https://github.com/sympy/sympy
 
 ### Documentation
-http://docs.sympy.org/dev/index.html
+http://docs.sympy.org/latest/index.html
 
 ### License
 http://docs.sympy.org/dev/aboutus.html#license
@@ -38,8 +38,7 @@ http://docs.sympy.org/dev/aboutus.html#license
 ### Discussion Forums
 
 - MailingList: https://groups.google.com/forum/#!forum/sympy
-- Gitter: https://gitter.im/sympy/sympy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
-- IRC: http://colabti.org/irclogger/irclogger_logs/sympy
+- Gitter: https://gitter.im/sympy/sympy
 
 ### Events
 N/A
