@@ -16,13 +16,25 @@ http://yt-project.org/doc/faq/index.html#how-do-i-cite-yt
 ## Governance
 
 ### Leadership Team
-?
+
+The current membership of the yt steering committee is:
+
+* Hilary Egan
+* Nathan Goldbaum
+* Cameron Hummels
+* Kacper Kowalik
+* Sam Skillman
+* Britton Smith
+* Matthew Turk
+* John Zuhone
+
+The steering committee can be contacted at yt-exec@googlegroups.com
 
 ### Code of Conduct
 http://yt-project.org/community.html
 
 ### Governance Documentation
-?
+http://ytep.readthedocs.io/en/latest/YTEPs/YTEP-1776.html
 
 ## Code
 
@@ -39,6 +51,7 @@ https://github.com/yt-project
 http://yt-project.org/doc/developing/developing.html#licensing
 
 ## Contact
+Please contact us via one of our project mailing lists.
 
 ### Discussion Forums
 - [yt-users](https://mail.python.org/mm3/mailman3/lists/yt-users.python.org/) for usage help, questions and answers, and general discussion.
@@ -48,4 +61,4 @@ http://yt-project.org/doc/developing/developing.html#licensing
 - "In case you don't have an IRC client, we also have a [web client](https://yt-project.org/irc.html) that will connect you directly to our channel."
 
 ### Events
-?
+
