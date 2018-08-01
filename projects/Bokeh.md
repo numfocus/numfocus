@@ -7,19 +7,21 @@ https://bokeh.pydata.org/en/latest/
 Twitter: [@BokehPlots](https://twitter.com/BokehPlots)
 
 ### Citing
-?
+https://bokehplots.com/pages/citation.html
 
 ## Governance
 
 ### Leadership Team
-?  
-[Team](https://bokehplots.com/pages/team.html)
+* Bryan Van de Ven 
+* Sarah Bird
+* Luke Canavan
 
 ### Code of Conduct
 https://github.com/bokeh/bokeh/blob/master/CODE_OF_CONDUCT.md
 
 ### Governance Documentation
-?
+
+BEPs on Wiki: https://github.com/bokeh/bokeh/wiki
 
 ## Code
 
@@ -27,10 +29,12 @@ https://github.com/bokeh/bokeh/blob/master/CODE_OF_CONDUCT.md
 https://github.com/bokeh/bokeh
 
 ### Documentation
-https://bokeh.pydata.org/en/latest/docs/dev_guide.html
+https://bokeh.pydata.org/en/latest/docs/
 
 ### License
-?
+BSD 3-Clause
+
+https://github.com/bokeh/bokeh/blob/master/LICENSE.txt
 
 ## Contact
 
