@@ -18,7 +18,7 @@ Julia: A Fresh Approach to Numerical Computing. Jeff Bezanson, Alan Edelman, Ste
 Viral Shah <viral@mayin.org>
 Stefan Karpinski <stefan@karpinski.org>
 Jeff Bezanson <jeff.bezanson@gmail.com>
-Keno Fischer <keno.fischer@juliacomputing.com>
+Keno Fischer <keno@alumni.harvard.edu>
 Alan Edelman <edelman@mit.edu>
 
 ### Code of Conduct
@@ -37,7 +37,7 @@ https://julialang.org/community/standards/
 http://docs.julialang.org/en/stable/
 
 ### License
-MIT (with some GPL components)
+MIT (with some LGPL/GPL components)
 https://github.com/JuliaLang/julia/blob/master/LICENSE.md
 
 ## Contact
