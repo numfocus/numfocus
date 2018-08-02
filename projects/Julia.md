@@ -15,7 +15,9 @@
 ## Governance
 
 ### Leadership Team
-?
+Viral Shah <viral@mayin.org>
+Stefan Karpinski <stefan@karpinski.org>
+Keno Fischer <keno.fischer@juliacomputing.com>
 
 ### Code of Conduct
 https://julialang.org/community/standards/
@@ -33,9 +35,11 @@ https://julialang.org/community/standards/
 http://docs.julialang.org/en/stable/
 
 ### License
-?
+MIT (with some GPL components)
+https://github.com/JuliaLang/julia/blob/master/LICENSE.md
 
 ## Contact
+
 
 ### Discussion Forums
 https://julialang.org/community/
