@@ -9,7 +9,7 @@
 Twitter: [@astropy](https://twitter.com/astropy)
 
 ### Citing
-?
+http://www.astropy.org/acknowledging.html
 
 ## Governance
 
