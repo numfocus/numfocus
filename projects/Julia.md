@@ -6,7 +6,7 @@
 <http://julialang.org/>
 
 ### Social Media
-- Facebook: [Julia programming language](https://www.facebook.com/groups/juliaproglang/)
+- YouTube: [JuliaLanguage](https://www.youtube.com/user/JuliaLanguage)
 - Twitter: [@JuliaLanguage](https://twitter.com/JuliaLanguage)
 
 ### Citing
@@ -19,6 +19,7 @@ Viral Shah <viral@mayin.org>
 Stefan Karpinski <stefan@karpinski.org>
 Jeff Bezanson <jeff.bezanson@gmail.com>
 Keno Fischer <keno.fischer@juliacomputing.com>
+Alan Edelman <edelman@mit.edu>
 
 ### Code of Conduct
 https://julialang.org/community/standards/
