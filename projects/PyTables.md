@@ -29,20 +29,18 @@ http://www.pytables.org/dev_team.html
 - Ivan Vilata
 - Scott Prater
 - Vicent Mas
-- Tom Hedley
 - Antonio Valentino
-- Jeffrey Whitaker
-- Josh Moore
 - Anthony Scopatz
 - Andrea Bedini
 - Tom Kooij
+- Alberto Sabater
 - Javier Sancho
 
 ### Code of Conduct
-?
+N/A
 
 ### Governance Documentation
-?
+N/A
 
 ## Code
 
@@ -63,4 +61,6 @@ BSD-3-Clause: https://github.com/PyTables/PyTables/blob/develop/LICENSE.txt
 - Gitter: https://gitter.im/PyTables/PyTables
 
 ### Events
-?
+
+- Hackfest at Curtin University in Perth, Australia about PyTables projects for the future
+  https://curtinic.github.io/python-and-hdf5-hackfest/
