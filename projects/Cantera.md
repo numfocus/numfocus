@@ -3,18 +3,24 @@
 ## Marketing
 
 ### Website
-http://cantera.org/docs/sphinx/html/index.html
+https://cantera.org/
 
 ### Social Media
 Twitter: [@CanteraSoftware](https://twitter.com/CanteraSoftware)
 
 ### Citing
-?
+https://cantera.org/community.html#citing-cantera
 
 ## Governance
 
 ### Leadership Team
-?
+
+- Steven DeCaluwe, Colorado School of Mines
+- C. Franklin Goldsmith, Brown University
+- Kyle Niemeyer, Oregon State University
+- Raymond Speth, Massachusetts Institute of Technology
+- Bryan Weber, University of Connecticut
+- Richard West, Northeastern University
 
 ### Code of Conduct
 https://github.com/Cantera/cantera/blob/master/CODE_OF_CONDUCT.md
@@ -28,16 +34,15 @@ https://github.com/Cantera/cantera/blob/master/CODE_OF_CONDUCT.md
 https://github.com/Cantera/cantera
 
 ### Documentation
-http://cantera.org/docs/sphinx/html/index.html
+https://cantera.org/documentation
 
 ### License
-?
-https://github.com/Cantera/cantera/blob/master/License.txt
+BSD-compatible: https://github.com/Cantera/cantera/blob/master/License.txt
 
 ## Contact
 
 ### Discussion Forums
-?
+https://groups.google.com/forum/#!forum/cantera-users
 
 ### Events
 ?
