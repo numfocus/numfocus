@@ -36,7 +36,7 @@ https://github.com/JuliaOpt/JuMP.jl/blob/master/CODE_OF_CONDUCT.md
 
 ### Governance Documentation
 
-N.A.
+None (yet).
 
 ## Code
 
@@ -58,7 +58,8 @@ https://github.com/JuliaOpt/JuMP.jl/blob/master/LICENSE.md
 - Gitter dev chatroom: https://gitter.im/JuliaOpt/JuMP-dev
 
 ### Events
-
+ - Tutorials
+   - [JuliaCon, (2018)](http://juliacon.org/2018/talks_workshops/7/)
  - JuMP-dev
-   - [MIT, (2017)](http://www.juliaopt.org/meetings/mit2017/)
    - [Bordeaux, (2018)](http://www.juliaopt.org/meetings/bordeaux2018/)
+   - [MIT, (2017)](http://www.juliaopt.org/meetings/mit2017/)
