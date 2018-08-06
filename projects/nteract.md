@@ -14,7 +14,9 @@ Twitter: [@nteractio](https://twitter.com/nteractio)
 ## Governance
 
 ### Leadership Team
-?
+
+* Kyle Kelley <rgbkrk@gmail.com>
+* Safia Abdalla <safia@safia.rocks>
 
 ### Code of Conduct
 https://github.com/nteract/nteract/blob/master/CODE_OF_CONDUCT.md
