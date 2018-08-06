@@ -24,13 +24,19 @@ If you find JuMP useful in your work, we kindly request that you cite the follow
 ## Governance
 
 ### Leadership Team
-?
+
+- Miles Lubin (Google)
+- Juan Pablo Vielma (MIT)
+- Joey Huchette (Google)
+- Oscar Dowson (Northwestern)
+- Changhyun Kwon (U. of South Florida)
 
 ### Code of Conduct
 https://github.com/JuliaOpt/JuMP.jl/blob/master/CODE_OF_CONDUCT.md
 
 ### Governance Documentation
-?
+
+None (yet).
 
 ## Code
 
@@ -52,4 +58,8 @@ https://github.com/JuliaOpt/JuMP.jl/blob/master/LICENSE.md
 - Gitter dev chatroom: https://gitter.im/JuliaOpt/JuMP-dev
 
 ### Events
-?
+ - Tutorials
+   - [JuliaCon, (2018)](http://juliacon.org/2018/talks_workshops/7/)
+ - JuMP-dev
+   - [Bordeaux, (2018)](http://www.juliaopt.org/meetings/bordeaux2018/)
+   - [MIT, (2017)](http://www.juliaopt.org/meetings/mit2017/)
