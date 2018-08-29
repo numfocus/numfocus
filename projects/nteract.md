@@ -41,6 +41,7 @@ BSD-3-Clause: [nteract/LICENSE at master · nteract/nteract](https://github.com/
 ### Discussion Forums
 - Slack: <https://nteract.slack.com/>
 - Slack Inviter: [Join nteract on Slack!](https://slackin-nteract.now.sh/)
+- Google Group: https://groups.google.com/d/forum/nteract
 
 ### Events
 [nteract Global Sprint](https://github.com/nteract/global-sprint)
