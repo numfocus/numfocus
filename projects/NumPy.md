@@ -9,7 +9,7 @@
 N/A
 
 ### Citing
-?
+https://scipy.org/citing.html#numpy
 
 ## Governance
 
@@ -17,7 +17,7 @@ N/A
 https://docs.scipy.org/doc/numpy-dev/dev/governance/people.html
 
 ### Code of Conduct
-?
+https://www.numpy.org/devdocs/dev/conduct/code_of_conduct.html
 
 ### Governance Documentation
 https://docs.scipy.org/doc/numpy-dev/dev/governance/index.html
@@ -40,4 +40,4 @@ BSD-3-Clause: http://www.numpy.org/license.html#license
 - Discussion: https://mail.python.org/pipermail/numpy-discussion/
 
 ### Events
-?
+NumPy does not organize any regular events.
