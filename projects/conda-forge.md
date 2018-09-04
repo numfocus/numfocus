@@ -9,7 +9,7 @@ https://conda-forge.org/
 Twitter: [@condaforge](https://twitter.com/condaforge)
 
 ### Citing
-?
+N/A
 
 ## Governance
 
@@ -33,7 +33,7 @@ Christopher J. Wright, @CJ-Wright
 
 
 ### Code of Conduct
-?
+https://numfocus.org/code-of-conduct
 
 ### Governance Documentation
 https://conda-forge.org/docs/governance.html
@@ -47,7 +47,7 @@ https://github.com/conda-forge
 https://conda-forge.org/docs/
 
 ### License
-?
+BSD-3-Clause
 
 ## Contact
 
