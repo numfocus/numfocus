@@ -46,7 +46,7 @@ GNU LGPL version 3.0 or later for most components
 ## Contact
 
 ### Discussion Forums
-- FEniCS Q&A: https://fenicsproject.org/qa/
+- FEniCS Q&A: https://www.allanswered.com/community/s/fenics-project/
 - fenics-dev - Google Groups: https://groups.google.com/forum/#!forum/fenics-dev
 - fenics-support - Google Groups: https://groups.google.com/forum/#!forum/fenics-support
 - Slack: https://fenicsproject.slack.com/
