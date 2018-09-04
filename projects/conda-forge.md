@@ -33,7 +33,7 @@ Christopher J. Wright, @CJ-Wright
 
 
 ### Code of Conduct
-https://numfocus.org/code-of-conduct
+https://conda-forge.org/docs/governance.html?highlight=code%20conduct#code-of-conduct
 
 ### Governance Documentation
 https://conda-forge.org/docs/governance.html
