@@ -9,18 +9,22 @@
 - Twitter: [@xarray_dev](https://twitter.com/xarray_dev)
 
 ### Citing
-?
+Hoyer, S. & Hamman, J., (2017). xarray: N-D labeled Arrays and Datasets in Python. Journal of Open Research Software. 5(1), p.10. DOI: http://doi.org/10.5334/jors.148
 
 ## Governance
 
 ### Leadership Team
-?
+Stephan Hoyer  
+Joseph Hamman  
+Ryan Abernathey  
+Fabien Maussion  
+Keisuke Fujii
 
 ### Code of Conduct
 https://github.com/pydata/xarray/blob/master/CODE_OF_CONDUCT.md
 
 ### Governance Documentation
-?
+Nothing formal at this time. 
 
 ## Code
 
