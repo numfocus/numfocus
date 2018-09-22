@@ -14,13 +14,13 @@ https://scipy.org/citing.html#numpy
 ## Governance
 
 ### Leadership Team
-https://docs.scipy.org/doc/numpy-dev/dev/governance/people.html
+https://docs.scipy.org/doc/numpy/dev/governance/people.html
 
 ### Code of Conduct
 https://www.numpy.org/devdocs/dev/conduct/code_of_conduct.html
 
 ### Governance Documentation
-https://docs.scipy.org/doc/numpy-dev/dev/governance/index.html
+https://docs.scipy.org/doc/numpy/dev/governance/index.html
 
 ## Code
 
