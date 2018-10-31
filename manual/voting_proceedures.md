@@ -3,7 +3,9 @@
 There are two mechanisms for voting by the NumFOCUS Board, asynchronously via GitHub or synchronously at a board meeting.
 
 ## Asynchronous voting
-For asynchronous voting, a resolution will be proposed as a ticket on the numfocus-board GitHub repository. Each voting board member can discuss the resolution on the ticket. If the board member feels there is no further discussion needed they may cast a vote as one of the following:  
+For asynchronous voting, a resolution will be proposed as a ticket on the numfocus-board GitHub repository. The person who proposed the resolution then emails the board at directors@numfocus.org . This email is the timestamp for opening the resolution for a vote.
+
+Each voting board member can discuss the resolution on the ticket. If the board member feels there is no further discussion needed they may cast a vote as one of the following:  
 
 + 1 : I approve this resolution
 + 0 : I abstain from voting on this resolution. I may have a conflict of interest or believe it is not necessary but will not oppose it.
