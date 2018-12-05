@@ -7,9 +7,12 @@ For asynchronous voting, a resolution will be proposed as a ticket on the numfoc
 
 Each voting board member can discuss the resolution on the ticket. If the board member feels there is no further discussion needed they may cast a vote as one of the following:  
 
-+ 1 : I approve this resolution
-+ 0 : I abstain from voting on this resolution. I may have a conflict of interest or believe it is not necessary but will not oppose it.
-- 1 : I feel this resolution needs discussion at a board meeting.
+"+ 1" : I approve this resolution  
+
+"+ 0" : I abstain from voting on this resolution. I may have a conflict of interest or believe it is not necessary but will not oppose it.  
+
+"- 1" : I feel this resolution needs discussion at a board meeting.  
+
 
 If a quorum of voting board members vote +1 without any -1 votes in 5 days (24 hour periods, not business days), the resolution passes and will be ratified at the beginning of the next board meeting.
 
