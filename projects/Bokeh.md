@@ -15,6 +15,7 @@ https://bokehplots.com/pages/citation.html
 * Bryan Van de Ven 
 * Sarah Bird
 * Luke Canavan
+* Philipp Rudiger
 
 ### Code of Conduct
 https://github.com/bokeh/bokeh/blob/master/CODE_OF_CONDUCT.md
