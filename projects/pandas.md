@@ -6,10 +6,10 @@
 <http://pandas.pydata.org/>
 
 ### Social Media
-N/A
+<https://twitter.com/pandas_dev>
 
 ### Citing
-?
+[pandas: a Foundational Python Library for Data Analysis and Statistics; presented at PyHPC2011](https://www.scribd.com/doc/71048089/pandas-a-Foundational-Python-Library-for-Data-Analysis-and-Statistics)
 
 ## Governance
 
@@ -21,15 +21,22 @@ Wes McKinney is the Benevolent Dictator for Life (BDFL).
 
 **Project Core Team**
 - Tom Augspurger
+- William Ayd
 - Chris Bartak
+- Pietro Battiston
 - Phillip Cloud
+- Marc Garcia
 - Andy Hayden
+- Masaaki Horikoshi (@sinhrks)
 - Stephan Hoyer
 - Wes McKinney
+- Brock Mendel
 - Jeff Reback
+- Matthew Roeschke
+- Jeremy Schendel
 - Chang She
-- Masaaki Horikoshi
 - Joris Van den Bossche
+- G. Young
 
 ### Code of Conduct
 https://github.com/pandas-dev/pandas-governance/blob/master/code-of-conduct.md
