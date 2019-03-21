@@ -1,5 +1,14 @@
 # Approving NumFOCUS Projects
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Criteria](#criteria)
+- [Evaluation process](#evaluation-process)
+- [GitHub Issue Template](#github-issue-template)
+
+## Overview
+
 There are two basic types of projects at NumFOCUS, Fiscally Sponsored and Affiliated:
 
 - Fiscally Sponsored Projects are project that can readily receive funding and have a financial board.
@@ -21,11 +30,11 @@ These three rule help guide the board in accepting projects but there are many f
 
 ## Evaluation process
 
-After an application has been received by the NumFOCUS Staff, the application is forwarded to the board. A board member will accept the responsibility of championing a project to evaluate the project according to our criteria. Write a report in an issue on the GitHub numfocus-board repository. Then propose a vote. See the voting procedures document in this repo. 
+After an application has been received by the NumFOCUS Staff, the application is forwarded to the board. A board member will accept the responsibility of championing a project to evaluate the project according to our criteria. Write a report in an issue on the [GitHub `numfocus-board` repository](https://github.com/numfocus/numfocus-board). Then propose a vote. See the [voting procedures](voting_procedures.md) document in this repo. 
 
 Because each criterion is somewhat vague, which is by design to allow for maximum flexibility in the boards decision, we provide some examples of how board members have interpreted the process. 
 
-### Be Scientifically Oriented 
+### Be Scientifically Oriented
 
 Is this project built by science for science or a general tool that scientists might use? For example Stencila and ReadTheDocs are two tools that are immensely important but failed our mission criteria. Both are general tools that are ultimately focused to a wider audience than the NumFOCUS community.
 
@@ -48,3 +57,33 @@ Does the project have a code of conduct (CoC) that encourages diversity and incl
 
 Does the project have a committee for conduct violations, or will they want NumFOCUS to adjudicate?
 
+## GitHub Issue Template
+
+When filing the review issue on the [`numfocus-board` repository](https://github.com/numfocus/numfocus-board), you may use the following template:
+
+```
+# Application to become (affiliated/fiscally sponsored — choose one) project
+
+Project name: 
+[Application](URL-of-the-Google-doc)
+Project homepage: 
+
+## Criteria
+
+- [ ] Be scientifically oriented: The project is an active contributor
+  to our mission to scientific research.
+
+Place your assessment here.
+
+- [ ] Be open: The project must be led openly
+
+Place your assessment here.
+
+- [ ] Be kind: The project must be inclusive of all peoples.
+
+Place your assessment here.
+
+## Recommendation
+
+(Reject/approve) the (affiliation/fiscal sponsorhip).  If rejected, provide reasons.
+```
