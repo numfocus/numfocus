@@ -20,7 +20,7 @@ http://sunpy.org/team.html
 http://docs.sunpy.org/en/stable/coc.html
 
 ### Governance Documentation
-?
+https://github.com/sunpy/sunpy-SEP/blob/master/SEP-0002.md
 
 ## Code
 
