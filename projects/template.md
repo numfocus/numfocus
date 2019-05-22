@@ -6,8 +6,8 @@
 <http://www.your-project.org/>
 
 ### Social Media
-Twitter:
-Facebook:
+Twitter:  
+Facebook:  
 etc
 
 ### Citing
@@ -43,7 +43,7 @@ https://github.com/your-project
 http://www.project.org/read-the-docs.html
 
 ### License
-BSD-3-Clause: https://github.com/your-project/blob/develop/LICENSE.txt
+BSD-3-Clause (or whatever your license is): https://github.com/your-project/blob/develop/LICENSE.txt
 
 ## Contact
 
