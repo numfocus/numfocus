@@ -31,7 +31,7 @@ Is this project built by science for science or a general tool that scientists m
 
 ### Be Led Openly
 
-Is the project a true open collaboration or a code based on a few people's good work? A good rule of thumb is the number of committers above a certain threshold, say 50 commits. If the number of core contributors is less than 5, the project is still susceptible to rule by the few and will not be truly led openly. This rule has often been relaxed for Affiliated projects to allow projects that are growing but following our principles into the program.
+Is the project a true open collaboration or a code based on a few people's good work? A good rule of thumb is the number of committers who have made more than, say, 50 commits. If the number of core contributors is less than 5, the project is still susceptible to "rule by the few" and will not truly be led openly. This rule has been relaxed for Affiliated projects to allow into the program projects that are still growing; but such projects need to show that they have made significant effort to expand their developer community.
 
 Does the project allow contributions from the open community? Many open source projects are not led openly but rather walled gardens that is controlled by a few private interests. One commonly cited example is the TensorFlow project. While it is open source, only code that is approved by Google will be considered. Since NumFOCUS is a 501(c)3 in the interest of public good, it is our opinion that we cannot support such projects. While they may be good for the public good, it is too unclear whether private or public interests are the primary concern.
 
