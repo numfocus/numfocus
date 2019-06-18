@@ -14,7 +14,7 @@ Facebook:  <https://www.facebook.com/mathjax/>
 
 ### Citing
 
-**The recommended way to cite PROJECT in a paper or a presentation is as follows:**
+**The recommended way to cite MathJax in a paper or a presentation is as follows:**
 
 [MathJax](https://www.mathjax.org)
 
@@ -26,7 +26,7 @@ Facebook:  <https://www.facebook.com/mathjax/>
 
 <https://www.mathjax.org/#about>
 
-**The PROJECT leadership team includes:**
+**The MathJax leadership team includes:**
 
 - Davide P. Cervone
 - Volker Sorge
