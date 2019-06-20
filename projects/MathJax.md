@@ -20,6 +20,14 @@ Facebook:  <https://www.facebook.com/mathjax/>
 
 (This is the word "MathJax" with a link to <https://www.mathjax.org>).
 
+or
+
+Davide P. Cervone, MathJax: A Platform for Mathematics on the Web,
+*Notices of the American Mathematical Society*, **59** (2012) no. 2,
+312–316.  <http://dx.doi.org/10.1090/noti794>
+
+
+
 ## Governance
 
 ### Leadership Team
