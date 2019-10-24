@@ -149,40 +149,26 @@ What happens after a report is filed?
 
 #### Acknowledgment and Responding to Immediate Needs
 
-NumFOCUS and/or our event staff will attempt to ensure your safety and
-help with any immediate needs, particularly at an in-person event.
-NumFOCUS will make every effort to **acknowledge receipt within 24
-hours** (and we'll aim for much more quickly than that).
+NumFOCUS and/or our event staff will attempt to ensure your safety and help with any immediate needs, particularly at an in-person event.  NumFOCUS will make every effort to **acknowledge receipt within 24 hours** (and we'll aim for much more quickly than that).
 
 #### Reviewing the Report
 
-NumFOCUS will make all efforts to **review the incident within three
-days** and determine:
+NumFOCUS will make all efforts to **review the incident within three days** and determine:
 
--   Whether this is an ongoing situation, or if there is a threat to
-    anyone's physical safety
--   What happened
--   Whether this event constitutes a code of conduct violation
--   Who the bad actor was, if any
+- Whether this is an ongoing situation, or if there is a threat to anyone's physical safety
+- What happened
+- Whether this event constitutes a code of conduct violation
+- Who the bad actor was, if any
 
-If the incident took place at an event or meetup or within the community
-channels of a NumFOCUS project, the NumFOCUS Code of Conduct Enforcement
-Team will reach out to the relevant organizers/community
-managers/project leaders as necessary to follow up on the incident.
+If the incident took place at an event or meetup or within the community channels of a NumFOCUS project, the NumFOCUS Code of Conduct Enforcement Team will reach out to the relevant organizers/community managers/project leaders as necessary to follow up on the incident.
 
 #### Contacting the Person Reported
 
-After NumFOCUS has had time to review and discuss the report, someone
-will attempt to contact the person who is the subject of the report to
-inform them of what has been reported about them. We will then ask that
-person for their account of what happened.
+After NumFOCUS has had time to review and discuss the report, someone will attempt to contact the person who is the subject of the report to inform them of what has been reported about them. We will then ask that person for their account of what happened.
 
 #### Response and Potential Consequences
 
-Once NumFOCUS has completed our investigation of the report, we will
-make a decision as to how to respond. The person making a report will
-not normally be consulted as to the proposed resolution of the issue,
-except insofar as we need to understand how to help them feel safe.
+Once NumFOCUS has completed our investigation of the report, we will make a decision as to how to respond. The person making a report will not normally be consulted as to the proposed resolution of the issue, except insofar as we need to understand how to help them feel safe.
 
 Potential consequences for violating the NumFOCUS code of conduct include:
 
