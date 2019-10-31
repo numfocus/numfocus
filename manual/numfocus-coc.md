@@ -1,4 +1,4 @@
-# NumFOCUS Code of Conduct
+# [PROJECT] Code of Conduct
 
 ## The Short Version
 
