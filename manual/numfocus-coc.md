@@ -1,5 +1,30 @@
 # [PROJECT] Code of Conduct
 
+**Table of Contents**
+
+- [The Short Version](#the-short-version)
+- [The Longer Version](#the-longer-version)
+  - [[PROJECT] Diversity Statement](#project-diversity-statement)
+  - [[PROJECT] Code of Conduct: Introduction & Scope](#project-code-of-conduct-introduction--scope)
+  - [Standards for Behavior](#standards-for-behavior)
+    - [Unacceptable Behavior](#unacceptable-behavior)
+  - [Reporting Guidelines](#reporting-guidelines)
+    - [How to Submit a Report](#how-to-submit-a-report)
+    - [Person(s) Responsible for Resolving Complaints](#persons-responsible-for-resolving-complaints)
+    - [Conflicts of Interest](#conflicts-of-interest)
+    - [What to Include in a Report](#what-to-include-in-a-report)
+  - [Enforcement: What Happens After a Report is Filed?](#enforcement-what-happens-after-a-report-is-filed)
+    - [Acknowledgment and Responding to Immediate Needs](#acknowledgment-and-responding-to-immediate-needs)
+    - [Reviewing the Report](#reviewing-the-report)
+    - [Contacting the Person Reported](#contacting-the-person-reported)
+    - [Response and Potential Consequences](#response-and-potential-consequences)
+    - [Appealing a Decision](#appealing-a-decision)
+  - [Timeline Summary:](#timeline-summary)
+    - [Confirming Receipt](#confirming-receipt)
+    - [Reviewing the Report](#reviewing-the-report-1)
+    - [Consequences & Resolution](#consequences--resolution)
+- [License](#license)
+
 ## The Short Version
 
 Be kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for [PROJECT].
