@@ -35,7 +35,7 @@ All communication should be appropriate for a professional audience including pe
 
 Thank you for helping make this a welcoming, friendly community for all.
 
-**CODE OF CONDUCT REPORTING FORM:** [*https://numfocus.typeform.com/to/ynjGdT*](https://numfocus.typeform.com/to/ynjGdT)
+**CODE OF CONDUCT REPORTING FORM:** [*https://URL/to/your/CoC/reporting/form*](https://URL/to/your/CoC/reporting/form)
 
 ## The Longer Version
 
@@ -115,12 +115,13 @@ Take care of each other. Alert [PROJECT] if you notice a dangerous situation, so
 
 [PROJECT] is committed to promptly addressing any reported issues. If you have experienced or witnessed behavior that violates the [PROJECT] Code of Conduct, please complete the form below to make a report.
 
-**REPORTING FORM:** [*https://numfocus.typeform.com/to/ynjGdT*](https://numfocus.typeform.com/to/ynjGdT)
+**REPORTING FORM:** [*https://URL/to/your/CoC/reporting/form*](https://URL/to/your/CoC/reporting/form)
 
 Reports are sent to the [PROJECT] Code of Conduct Enforcement Team (see below).
 
-You can view the Privacy Policy and Terms of Service for TypeForm at [*https://terms.typeform.com/to/fJAmVc*](https://terms.typeform.com/to/fJAmVc). The NumFOCUS Privacy Policy is at [*https://www.numfocus.org/privacy-policy*](https://www.numfocus.org/privacy-policy)
-[MAY NEED TO INSERT LANGUAGE HERE RE: THE PROJECT'S PRIVACY POLICY]
+<!-- If you are using TypeForm, leave the following text in place -->
+
+You can view the Privacy Policy and Terms of Service for TypeForm at [*https://terms.typeform.com/to/fJAmVc*](https://terms.typeform.com/to/fJAmVc).
 
 #### Person(s) Responsible for Resolving Complaints
 
@@ -179,7 +180,7 @@ What happens after a report is filed?
 
 [PROJECT] and/or our event staff will attempt to ensure your safety and help with any immediate needs, particularly at an in-person event.  [PROJECT] will make every effort to **acknowledge receipt within 24 hours** (and we'll aim for much more quickly than that).  
 
-[PROJECT SHOULD REVIEW THE RESPONSE SCHEDULE LISTED ABOVE AND BELOW, AND DETERMINE WHETHER IT IS REALISTIC FOR THE PROJECT.]
+<!-- PROJECT SHOULD REVIEW THE RESPONSE SCHEDULE LISTED ABOVE AND BELOW, AND DETERMINE WHETHER IT IS REALISTIC FOR THE PROJECT. -->
 
 #### Reviewing the Report
 
