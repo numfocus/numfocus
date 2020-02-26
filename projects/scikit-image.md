@@ -5,8 +5,6 @@
 ### Website
 <https://scikit-image.org>
 
-### Social Media
-
 ### Citing
 https://doi.org/10.7717/peerj.453 
 
@@ -14,10 +12,10 @@ https://doi.org/10.7717/peerj.453
 https://scikit-image.org/docs/dev/skips/1-governance.html
 
 ### Leadership Team
-Stéfan van der Walt
-Emmanuelle Gouillart
-Juan Nunez-Iglesias
-Josh Warner
+Stéfan van der Walt  
+Emmanuelle Gouillart  
+Juan Nunez-Iglesias  
+Josh Warner  
 Zachary Pincus
 
 ### Code of Conduct
@@ -49,6 +47,3 @@ Core developers: skimage-core@python.org
 - Usage questions: https://forum.image.sc/tags/scikit-image
 - Help with code: https://stackoverflow.com/questions/tagged/scikit-image
 - Chat room: https://skimage.zulipchat.com/
-
-### Events
-?
