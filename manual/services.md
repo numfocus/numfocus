@@ -1,0 +1,72 @@
+## Summary of NumFOCUS Fiscal Sponsorship Services
+
+- Accounting and Finance
+  - Accounts Payable
+    - Payment of Project Invoices and Reimbursements
+    - Vendor Payments
+    - Debit Cards (one per project, \$3,000 balance limit)
+  - Accounts Receivable
+    - Invoicing
+    - Processing of Vendor and Supplier Forms
+  - Financial Reporting
+    - Monthly detailed cash-based Profit and Loss Reports
+    - Monthly Profit and Loss Reports for each grant
+- Donation Management
+  - Access to donation portal and payment processing
+  - Administration of donor accounting
+  - Project donor reports
+- IRS Tax Filing
+  - Form 990 preparation and filing
+- Grant Administration
+  - Advising on award requirements, terms, conditions, and general
+    provisions of grant agreements
+  - Assistance creating budgets
+  - Providing all required information to the grantor and complying
+    with any additional requests for documentation
+  - Tracking spending of funds and budget on an ongoing basis
+  - Financial reporting to the grantor as needed
+  - Responding to audits related to the grant
+- Legal
+  - 10 hours of legal services (annually)
+  - Trademarking applications and administration
+  - Independent Contractor Agreements
+  - Sponsorship Agreements
+  - Other miscellaneous legal agreements as needed
+- NumFOCUS Summit Attendance
+  - 2 days of project leadership workshops and cross-project
+    collaboration opportunities
+- Advocacy
+  - Documentation guidance
+  - Diversity and inclusion best practices
+  - Governance guidance
+  - Participation in external programs under NumFOCUS
+    - Google Summer of Code
+    - Google Season of Docs
+- Marketing and Promotion
+  - Blog posts for new project features/updates or major releases
+  - Speaking opportunities at events
+  - Website Visibility
+  - Project Updates and Promotion in the NumFOCUS Newsletter
+  - Social Media Promotion
+  - Project Stickers
+  - Promotion at Pydata events
+- Event Support
+  - Registration site management
+  - Customizable website template
+  - Personalized sponsorship prospectuses
+  - Access to graphic designers
+  - Proposal submission and review system
+  - Financial administration and management
+  - Marketing and outreach campaigns
+- Infrastructure
+  - Zoom accounts (2 per project)
+  - Slack accounts
+  - G-Suite
+  - Google Shared Drives
+  - Google Groups and email addresses
+  - 1password accounts
+  - Jetbrains licenses
+  - AWS credits
+  - Domain transfers and hosting
+- Access to Funding from Small Development Grants
+  - Up to 10,000 USD per project per year
